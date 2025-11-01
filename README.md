@@ -49,4 +49,4 @@ The project demonstrates modular CSS architecture and responsive layout techniqu
 ---
 
 - **Live URL:** [View Project 4 Live](https://your-netlify-link.netlify.app)
-- **GitHub Repo:** [Project 4 Repository](https://github.com/YOUR_USERNAME/Modern-HTML-CSS-The_Beginning/tree/main/Leno-Website)
+- **GitHub Repo:** [Project 4 Repository](Leno_Website)
