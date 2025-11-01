@@ -1,6 +1,6 @@
 ## Project 1: BEM Website Leno 🚀
 
-![Leno Website Preview](./Leno-Website/Leno.png)
+![Leno Website Preview](./Leno Website/Leno.png)
 
 A clean and modern productivity landing page built using HTML, CSS, and the BEM (Block Element Modifier) methodology.  
 The project demonstrates modular CSS architecture and responsive layout techniques.
