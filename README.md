@@ -44,8 +44,8 @@ The project demonstrates modular CSS architecture and responsive layout techniqu
 
 ---
 
-- **Live URL:** [View Project 4 Live](https://luminacreativenabila.netlify.app/)
-- **GitHub Repo:** [Project 4 Repository](Leno_Website)
+- **Live URL:** [View Project 4 Live](https://lenoappnabila.netlify.app/)
+- **GitHub Repo:** [Project 1 Repository](Leno_Website)
 
 
 
