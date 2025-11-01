@@ -52,7 +52,7 @@ The project demonstrates modular CSS architecture and responsive layout techniqu
 
 ## Project 2: BEM Website Leno 🚀
 
-![Leno Website Preview](Tutor/Tutor preview.png)
+![Leno Website Preview](https://github.com/SamanthaNabila/Modern-HTML-CSS-The-Beginning/blob/main/Tutor/Tutor%20preview.png?raw=true)
 
 A clean and modern productivity landing page built using HTML, CSS, and the BEM (Block Element Modifier) methodology.  
 The project demonstrates modular CSS architecture and responsive layout techniques.
